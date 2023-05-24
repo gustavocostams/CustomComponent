@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomComponent</string>
+    <string name="item_one">Item 1</string>
+    <string name="item_two">Item 2</string>
+    <string name="item_three">Item 3</string>
+    <string name="item_description">Descreva o </string>
+</resources>
